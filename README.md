@@ -1,4 +1,4 @@
-# wercker_oke_demo
+# Wercker with OKE Demo
 
 This demo showcases how you can use Wercker, Oracle Kubernetes Engine and OCI Registry for complete DevOps
 
